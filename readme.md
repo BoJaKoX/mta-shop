@@ -12,6 +12,11 @@
   - return_url na własny,
   - cancel_url,
 
+[ # ZAWARTOŚĆ REPOZYTORIUM ]
+1. Pliki PHP strony,
+2. Szablon CSS strony,
+3. Przykładowa baza danych - tabela z graczami,
+
 [ # OD AUTORA ]
 1. Dorzucam jeszcze zrzut mySQL do testów.
 2. Dodatkowo jest jeszcze plik .htaccess przkierowujący z http:// na https://.
