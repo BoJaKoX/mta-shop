@@ -1,0 +1,105 @@
+/* szablon css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #24272E;
+}
+
+body {
+    position: relative;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #FFF;
+    left: 50%;
+    font-size: 28px; 
+}
+
+#auth {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    left: 50%;
+    text-align: center;
+    color: #fff;
+}
+
+#form {
+    margin-top: 50px;
+}
+
+.btn {
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 175px;
+    height: 50px;
+    background-color: dodgerblue;
+    color: #fff;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.textbox {
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    border: none;
+    border-radius: 25px;
+}
+
+.nav-text {
+    margin-top: 7.5%;
+    font-size: 32px;
+    margin-bottom: 4.5%;
+    text-align: center;
+    color: #fff;
+}
+
+#main2 {
+    margin-top: 225px;
+    text-align: center;
+}
+
+.text {
+    margin-top: 15px;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.alert {
+    position: absolute;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: -10%;
+    margin-top: -10%;
+}
+
+.error {
+    margin-top: auto;
+    width: 425px;
+    height: 30px;
+    background-color: #FF0000;
+    color: #fff;
+    border: none;
+}
+
+.select {
+    border: none;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 175px;
+    border-radius: 10px;
+}
