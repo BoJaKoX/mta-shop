@@ -13,4 +13,4 @@
   - cancel_url,
 
 [ # OD AUTORA ]
-Dorzucam jeszcze zrzut mySQL do testów.
+1. Dorzucam jeszcze zrzut mySQL do testów.
