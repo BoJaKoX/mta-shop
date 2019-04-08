@@ -1,4 +1,4 @@
-[ # WYMAGANIA ]
+[b][ # WYMAGANIA ][/b]
 1. PHP
 2. MySQL
 3. curl();
