@@ -14,3 +14,4 @@
 
 [ # OD AUTORA ]
 1. Dorzucam jeszcze zrzut mySQL do testów.
+2. Dodatkowo jest jeszcze plik .htaccess przkierowujący z http:// na https://.
